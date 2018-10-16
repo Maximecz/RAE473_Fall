@@ -37,7 +37,7 @@ should not be revealed to all users, what further problems arise?
 ###### *Answer*
 
 The problems are:
--Defining identities of the users.
--Identity theft. Some peaple can said that he is a person but in reality he is not this person.
--preventing the fake user to do some bad action with request message of the real user.
--the private information of one user must be hidden from other user. To hide this message we need to encrypte this last.
+#-Defining identities of the users.
+#-Identity theft. Some peaple can said that he is a person but in reality he is not this person.
+#-preventing the fake user to do some bad action with request message of the real user.
+#-the private information of one user must be hidden from other user. To hide this message we need to encrypte this last.
